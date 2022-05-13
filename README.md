@@ -3,7 +3,7 @@
      <ul style = "list-style-type: none"> 
          <li> :fox_face: My name is Veronica </li>
          <li> FullStack Engineer </li>
-          <li> connect with me </li>
+          <li> ✉️ CONTACT ME AT: </li>
        </u>
   <div id ="badges" >
       <a href ="https://www.linkedin.com/in/veronica-palafox-4a53991b4/">
@@ -32,10 +32,7 @@
 
 uses: Platane/snk@v2
 
-with:  github_user_name: ${{ github.elloveronika }}
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
-   outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
 
