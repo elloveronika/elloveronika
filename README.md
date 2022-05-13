@@ -28,11 +28,11 @@
         <img src="https://skillicons.dev/icons?i=mongodb,git,html,css" />
 </div>
 
-   ---
+---
 
-uses: Platane/snk@v2
+- uses: Platane/snk@v2
 
+dark mode
+ 
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
-
-
-
