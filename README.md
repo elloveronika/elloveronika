@@ -12,10 +12,12 @@
       <a href = "https://twitter.com/hufflepuffcodes">
         <img src= "https://img.shields.io/badge/Twitter-pink?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
       </a>
+      
   </div>
     ---
-
-### :hammer_and_wrench: Languages and Tools :****
-
+    <div>
+    ### :hammer_and_wrench: Languages and Tools :
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp
+    <div>
 </div>
 
