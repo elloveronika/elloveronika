@@ -26,5 +26,4 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="node" alt="node" width="40" height="40"/>&nbsp;
            <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
         <img src="https://skillicons.dev/icons?i=mongodb,git,html,css" />
-        
-    </div>
+</div>
