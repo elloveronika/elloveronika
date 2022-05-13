@@ -1,6 +1,6 @@
 <div id = "header" align = "center">
     <img src= "https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="200" height="200">
-     <ul style = "{list-style-type: none}"> 
+     <ul style = "list-style-type: none"> 
          <li> :fox_face: My name is Veronica </li>
          <li> FullStack Engineer </li>
           <li> connect with me </li>
