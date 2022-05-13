@@ -1,5 +1,5 @@
 <div id = "header" align = "center">
-    <img src= "https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif">
+    <img src= "https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="500" height="600">
      <ul> 
          <li> :fox_face: My name is Veronica </li>
          <li> FullStack Engineer </li>
