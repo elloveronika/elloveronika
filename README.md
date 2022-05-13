@@ -27,3 +27,15 @@
            <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
         <img src="https://skillicons.dev/icons?i=mongodb,git,html,css" />
 </div>
+
+   ---
+
+uses: Platane/snk@v2
+
+with:  github_user_name: ${{ github.elloveronika }}
+
+   outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
