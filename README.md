@@ -4,7 +4,7 @@
          <li> :fox_face: My name is Veronica </li>
          <li> FullStack Engineer </li>
           <li> connect with me </li>
-        </u>
+       </u>
   <div id ="badges" >
       <a href ="https://www.linkedin.com/in/veronica-palafox-4a53991b4/">
          <img src="https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
