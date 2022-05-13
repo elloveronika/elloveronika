@@ -15,6 +15,9 @@
       
   </div>
     ---
+
+</div>
+
    
     ### :hammer_and_wrench: Languages and Tools :
  <div>
@@ -24,5 +27,3 @@
         <img src="https://skillicons.dev/icons?i=mongodb,git,html,css" />
         
     </div>
-</div>
-
