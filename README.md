@@ -1,8 +1,9 @@
 <div id = "header" align = "center">
     <img src= "https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif">
-      :fox_face: My name is Veronica 
-        FullStack Engineer
-        connect with me 
+     <ul> 
+         <li> :fox_face: My name is Veronica </li>
+         <li> FullStack Engineer </li>
+          <li> connect with me </li>
     
   <div id ="badges" >
       <a href ="https://www.linkedin.com/in/veronica-palafox-4a53991b4/">
