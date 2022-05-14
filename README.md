@@ -3,9 +3,9 @@
     <div>
          <p> Hi there! My name is Veronica  </p>
          <p> I am a FullStack Engineer  </p>
-
+<div>
          <p>I am an environmentalist and creative turned engineer based in Silicon Valley. I have an extensive knowledge in HTML, CSS, JavaScript, Node.js, MongoDB, and React. My skills highly reflect across screens and teams I've worked with and am looking for my next endeavor in programming. Check out some projects I've worked on so far!</p>
-    
+    </p>
           <li> ✉️ CONTACT ME AT: </li>
     </div>
   <div id ="badges" >
