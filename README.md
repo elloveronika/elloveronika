@@ -3,8 +3,10 @@
      <ul style = "list-style-type: none"> 
          <li> Hi there! My name is Veronica  </li>
          <li> I am a FullStack Engineer  </li>
+    </ul>
+         <p>I am an environmentalist and creative turned engineer based in Silicon Valley. I have an extensive knowledge in HTML, CSS, JavaScript, Node.js, MongoDB, and React. My skills highly reflect across screens and teams I've worked with and am looking for my next endeavor in programming. Check out some projects I've worked on so far!</p>
           <li> ✉️ CONTACT ME AT: </li>
-       </u>
+      
   <div id ="badges" >
       <a href ="https://www.linkedin.com/in/veronica-palafox-4a53991b4/">
          <img src="https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
