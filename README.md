@@ -1,8 +1,8 @@
 <div id = "header" align = "center">
     <img src= "https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="200" height="200">
      <ul style = "list-style-type: none"> 
-         <li> Hola! Veronica the  </li>
-         <li> FullStack Engineer here </li>
+         <li> Hi there! My name is Veronica  </li>
+         <li> I am a FullStack Engineer  </li>
           <li> ✉️ CONTACT ME AT: </li>
        </u>
   <div id ="badges" >
